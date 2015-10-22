@@ -3,13 +3,13 @@ baseurl: "" # Subpath to website
 url: "https://hmendozap.github.io"
 theme:
     title: GP Sample Extraordinare
-    avatar:
+    avatar: pp.jpg
     gravatar: # Email MD5 hash
     description: "A website with blog posts and pages about a nicaraguan in search for a Master's" # used by search engines
 
     # Header and footer text
     header_text: >
-        <p> Remember to write something about me</p>
+        <p> Coffee, beer, bacon, Gaussian Processes... and maybe topology </p>
     header_text_feature_image:
     footer_text: >
         Copyright 2015. Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
@@ -38,16 +38,16 @@ theme:
 
     # Scripts
     google_analytics: # Tracking ID, e.g. "UA-000000-01"
-    disqus_shortname: hectordmendoza
+    disqus_shortname: "GP-Sample"
     katex: true # Enable if using math markup
 
     # Localization strings
-    str_follow_on: "Follow on"
+    str_follow_on: "Aquí estoy en"
     str_rss_follow: "Follow RSS feed"
     str_email: "Deja un mensaje"
     str_next: "Siguiente"
     str_prev: "Anterior"
-    str_continue_reading: "Entérate más"
+    str_continue_reading: "Enterate..."
 
     # Colours, typography and padding
     # Open the "_sass > base" folder, and open "_variables.scss"
@@ -66,4 +66,3 @@ highlighter: pygments
 sass:
   sass_dir: _sass
   style: :compressed
-
