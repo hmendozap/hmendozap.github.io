@@ -9,7 +9,7 @@ theme:
 
     # Header and footer text
     header_text: >
-        <p> Coffee, beer, bacon, Gaussian Processes... and maybe topology </p>
+        <p> Coffee, beer, bacon, sports and Gaussian Processes... </p>
     header_text_feature_image:
     footer_text: >
         Copyright 2015. Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
