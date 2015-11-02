@@ -46,3 +46,6 @@ La suposición de una línea de $2.15 para el 2009 puede bien ser errónea, pero
 Nada de lo anteriormente expuesto es definitivo, ya que a pesar de tener algunos datos sobre la pobreza, ingreso y consumo en Nicaragua, la mayoría están incompletos. No es como el servicio nacional de El Salvador que no ha presentado cifras al CEPALSTAT en los últimos años pero sería preferible para la transparencia dentro del gobierno que la mayoría de los datos sean libres para ser analizados por políticos, estadistas, académicos y la población en general.
 
 Esto ha sido mi intento por darle alguna claridad a los datos de pobreza en específico en Nicaragua, claro que todavía queda mucho por hacer y se hará eventualmente. Por lo pronto mi siguiente idea para visualizar es acerca del béisbol en Nicaragua, si alguien me puede echar la mano con conseguir la info, echéme un tweet o si tienen alguna idea y quieren trabajarla en conjunto, también aplica.
+
+--- 
+Breve actualización: Recomiendo leer esta pieza, que aunque no tan pulida refleja la [situación con rostros](http://www.laprensa.com.ni/2015/11/01/boletin/1928752-rostros-de-la-pobreza-2) sobre las nuevas medidas de pobreza.
