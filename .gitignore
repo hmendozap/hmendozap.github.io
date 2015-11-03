@@ -3,3 +3,4 @@ _site/
 code_snippets.txt
 *.swp
 *.lock
+Thumbs.db
