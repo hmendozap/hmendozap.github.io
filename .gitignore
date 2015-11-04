@@ -1,6 +1,7 @@
 _site/
 .sass-cache/
 code_snippets.txt
+*.*~
 *.swp
 *.lock
 Thumbs.db

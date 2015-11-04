@@ -47,5 +47,5 @@ Nada de lo anteriormente expuesto es definitivo, ya que a pesar de tener algunos
 
 Esto ha sido mi intento por darle alguna claridad a los datos de pobreza en específico en Nicaragua, claro que todavía queda mucho por hacer y se hará eventualmente. Por lo pronto mi siguiente idea para visualizar es acerca del béisbol en Nicaragua, si alguien me puede echar la mano con conseguir la info, echéme un tweet o si tienen alguna idea y quieren trabajarla en conjunto, también aplica.
 
---- 
+---
 Breve actualización: Recomiendo leer esta pieza, que aunque no tan pulida refleja la [situación con rostros](http://www.laprensa.com.ni/2015/11/01/boletin/1928752-rostros-de-la-pobreza-2) sobre las nuevas medidas de pobreza.
