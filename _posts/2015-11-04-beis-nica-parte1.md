@@ -22,7 +22,7 @@ Empezamos visualizando la distribución del promedio para bateadores que no son 
 
 En la gráfica se puede apreciar que hemos _"ajustado"_ una distribución a nuestros promedios. La media de todos los bateadores es cerca de $$0.253$$, un poco más bajo que las grandes ligas, pero en general bien. La distribución que se usó se llama [distribución](http://en.wikipedia.org/wiki/beta_distribution) distribución $$\beta$$ que intituivamente se puede pensar como una posible distribución de probabilidades (El promedio de bateo por definición es una probabilidad) tiene dos parámetros con valores $$\alpha_0 = $$ y $$\beta_0 = $$ para el ajuste.
 
-Luego se recalcula la estimación de los nuevos promedios (**"AVE_E"** en la tabla) y se ordenan y obtenemos lo siguiente: 
+Luego se recalcula la estimación de los nuevos promedios (**"AVE_E"** en la tabla) y se ordenan y obtenemos lo siguiente:
 
 |-----------------|-----|---|---------|---------|
 | PLAYER          | H   | AB|    AVE  |   AVE_E |
