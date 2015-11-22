@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Baseball Nica <br /> Visualización (Parte I)
-hide: true
 ---
 
 Después del [desahogo]({% post_url 2015-11-03-pepenando-datos %}) ahora sí, a conocer un poco más del beisbol amateur de Nicaragua alias _"Pomares"_.
@@ -68,4 +67,4 @@ Ahora veamos el otro caso, jugadores dentro del equipo tienen producción promed
 
 Como ejemplo tomaremos a Dwight Britton (el 2do mejor en promedio) y vemos que sus números son relativamente normales dentro de su equipo a excepción de los _HRs_ y _BBs_. Pero comparamos sus números con el resto de los equipos y pam! Está por encima del promedio en carreras, _hits_, dobles y carreras impulsadas también!
 
-Esto fue el primer post acerca de visualización usando datos de beisbol en Nicaragua, si gustan y quieren hacer sus propios análisis estadísticos, pueden enviarme un mensaje en twitter o dejar un comentario y puedo compartir los datos ya limpios. Esto también sirve para las nuevas generaciones en cuanto a saber sus tendencias y mejorar fallas técnicas en el deporte, habiendo dicho eso: **Felicitaciones a la sub-12 campeón panamericano de beisbol!** 
+Esto fue el primer post acerca de visualización usando datos de beisbol en Nicaragua, si gustan y quieren hacer sus propios análisis estadísticos, pueden enviarme un mensaje en twitter o dejar un comentario y puedo compartir los datos ya limpios. Esto también sirve para las nuevas generaciones en cuanto a saber sus tendencias y mejorar fallas técnicas en el deporte, habiendo dicho eso: **Felicitaciones a la sub-12 campeón panamericano de beisbol!**
