@@ -12,6 +12,7 @@ title: HDMP
 
   <div class="posts">
     {% for post in paginator.posts %}
+    {% if post.hide == false %}
     <div class="post-teaser">
       <header>
         <h1>
@@ -30,6 +31,7 @@ title: HDMP
         </a>
       </div>
     </div>
+    {% endif %}
     {% endfor %}
   </div>
 

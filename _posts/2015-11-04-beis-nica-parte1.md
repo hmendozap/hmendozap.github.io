@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Baseball Nica <br /> Visualización (Parte I)
+hide: false
 ---
 
 Después del [desahogo]({% post_url 2015-11-03-pepenando-datos %}) ahora sí, a conocer un poco más del beisbol amateur de Nicaragua alias _"Pomares"_.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pepenando datos porque pues soy de un país tercermundista
+hide: false
 ---
 La verdad esta entrada la iba a escribir con muchísimo más odio y rencor pero estoy un poco más calmado después de haber empezado con el análisis y la visualización y lograr producir [algo decente]({% post_url 2015-11-04-beis-nica-parte1 %}). Habiendo dicho eso:
 
