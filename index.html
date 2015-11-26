@@ -1,6 +1,5 @@
 ---
 layout: default
-title: HDMP
 ---
 <div class="home">
   {% if site.theme.header_text %}
@@ -12,7 +11,7 @@ title: HDMP
 
   <div class="posts">
     {% for post in paginator.posts %}
-    {% if post.hide == false %}
+    {% if post.hide != true %}
     <div class="post-teaser">
       <header>
         <h1>

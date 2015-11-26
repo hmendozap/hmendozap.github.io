@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Baseball Nica <br /> Visualización (Parte I)
-hide: false
+tags: deportes, baseball, Boer, viz
 ---
 
 Después del [desahogo]({% post_url 2015-11-03-pepenando-datos %}) ahora sí, a conocer un poco más del beisbol amateur de Nicaragua alias _"Pomares"_.
 
-Se recopilaron datos de la Pomares en vez de la liga profesional, porque pues en la Pomares hay más datos. La mayoría de los datos entre 2009-2012 son de toda la temporada, incluyendo playoffs aparenteme, y son datos bastantes básicos. No son los datos de la base Lahman, Sabermetrics o Pitchf/x que registran incluso el tipo de lanzamiento y la zona que llegó al home, pero creo que se puede generar algo con esto.
+Se recopilaron datos de la Pomares en vez de la liga profesional, porque pues en la Pomares hay más datos. La mayoría de los datos entre 2009-2012 son de toda la temporada, incluyendo playoffs aparenteme, y son datos bastantes básicos. No son los datos de la base Lahman, Sabermetrics o Pitchf/x que registran incluso el tipo de lanzamiento y la zona que llegó al _home_, pero creo que se puede generar algo con esto.
 
 Como sudé para la limpieza de datos (Data Munging) usaré este dataset para al menos otros dos posts: **visualización y estimación**, **cambios históricos y tendencias** y **predicciones**.
 
@@ -49,7 +49,7 @@ Como podemos apreciar existen dos grupos de buenos bateadores del 10 al 6, del 5
 
 ### Equipos malos, equipos buenos
 
-Lo que nos lleva a la siguiente visualización, las diferencias de nivel que existen entre los mejores bateadores de un mismo equipo y la diferencia que existen en relación a todos los otros equipos de temporada regular 2012. Esta idea surgió de un [post de basketball](http://www.http://hinnefe2.github.io/python/hoops/2015/08/12/ivy-heatmaps.html) (Todos estos _"bols"_ me recuerdan a [Stallone](https://www.youtube.com/watch?v=NjLZRIJse_c&list=PLl9Gh-swYCxv9rT1rylsQ_27jDL3zYGoa&index=1)
+Lo que nos lleva a la siguiente visualización, las diferencias de nivel que existen entre los mejores bateadores de un mismo equipo y la diferencia que existen en relación a todos los otros equipos de temporada regular 2012. Esta idea surgió de un [post de basketball](http://www.http://hinnefe2.github.io/python/hoops/2015/08/12/ivy-heatmaps.html) (Todos estos _"bols"_ me recuerdan a [Stallone](https://www.youtube.com/watch?v=NjLZRIJse_c&list=PLl9Gh-swYCxv9rT1rylsQ_27jDL3zYGoa&index=1))
 
 Paréntesis aparte, la idea es normalizar las estadísticas de cada bateador primero por equipo y luego para toda la temporada 2012. En las siguientes gráficas se puede apreciar claramente como ciertos jugadores _"producen"_ dentro del propio equipo pero que en relación a la liga misma son mediocres. Los datos están normalizados usando _"Z_Score"_ esto quiere decir que el número que aparece dentro del recuadro son las desviaciones estándar ($$\sigma$$) sobre/bajo la media.
 
@@ -58,7 +58,7 @@ Dicho de manera sencilla **rojo** = mejor que la media, **azul** = peor que la m
 ![Bateadores de Carazo normalizado](/img/beis/CARAZO_batters_2012_perTeam.png)
 ![Equipo Carazo con respecto a la liga](/img/beis/CARAZO_batters_2012_overall.png)
 
-Aquí se puede ver que los mejores tres bateadores de [Carazo](https://es.wikipedia.org/wiki/Departamento_de_Carazo) generan carreras y hits para el equipo, pero si los comparamos con el promedio de la temporada vemos que la producción es normal para el equipo con la excepción del mejor bateador, Jilton Calderón, que produce _"dobletes"_ y _"base por bolas"_ encima del promedio y aún el está por debajo del promedio en jonrones.
+Aquí se puede ver que los mejores tres bateadores de [Carazo](https://es.wikipedia.org/wiki/Departamento_de_Carazo) generan carreras y hits para el equipo, pero si los comparamos con el promedio de la temporada vemos que la producción es normal para el equipo con la excepción del mejor bateador, Jilton Calderón, que produce _"dobletes"_ y _"base por bolas"_ encima del promedio y aún el está por debajo del promedio en <del>jonrones</del> _"triples"_.
 
 Ahora veamos el otro caso, jugadores dentro del equipo tienen producción promedio pero que nivel de temporada están arriba del promedio, esto es signo de un buen equipo, de un equipo ganador. Para que no me acusen de hacer favoritos a los de la casa (Viva el bóer, jodido!) usé los datos de otro buen equipo en el 2012: **Costa Caribe**
 
