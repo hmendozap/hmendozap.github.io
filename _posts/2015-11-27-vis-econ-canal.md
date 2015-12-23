@@ -11,11 +11,11 @@ Dr. Acevedo, es economista y consultor con especialidad en proyectos grandes en 
 
 > Cualquier impacto económico positivo que podría compensar el impacto ambiental negativo es inexistente.
 
-Personalmente he sido proponedor (hoy aprendí que esa palabra existe) que los países en desarrollo necesitan incentivo económico real para poder ser agentes de cambio en cuanto al ambiente, ejemplo claro es la [India](http://www.theguardian.com/environment/2015/may/08/india-pledges-to-fight-climate-change-but-falls-short-of-stating-emissions-cap) y China que inicialmente pidieron tener un límite relativo en cuanto a control de emisiones en contraste con países desarrollados que tienen un límite absoluto en cuanto a emisiones (Por cierto la historia no está completa, ver este [video](http://econ.st/1NeJ6at). No se trata de que los ricos obliguen a los pobres hacer lo correcto, sino que todos tengamos la misma oportunidad a riqueza.
+Personalmente he sido proponedor (hoy aprendí que esa palabra existe) que los países en desarrollo necesitan incentivo económico real para poder ser agentes de cambio en cuanto al ambiente, ejemplo claro es la [India](http://www.theguardian.com/environment/2015/may/08/india-pledges-to-fight-climate-change-but-falls-short-of-stating-emissions-cap) y China que inicialmente pidieron tener un límite relativo en cuanto a control de emisiones en contraste con países desarrollados que tienen un límite absoluto en cuanto a emisiones. Por cierto la historia no está completa, ver este [video](http://econ.st/1NeJ6at). No se trata de que los ricos obliguen a los pobres hacer lo correcto, sino que todos tengamos la misma oportunidad a riqueza.
 
 #### Uno tiene que ganar
 
-Recordando la _hermosa época de ocupación estadounidense_ en Panamá, aún después de 1978, Panamá y Nicaragua todavía tenían Paridad de Poder Adquisitivo (PPA) muy parecidos, incluso más marcado cuando se compara en relación a EE.UU.(FIGURA 1 y FIGURA 2, se incluye Costa Rica como referencia al ser el país centroamericano con mejor economía). Sobre esto vale la pena mencionar un par de cosas:
+Recordando la _hermosa época de ocupación estadounidense_ en Panamá (sarcasmo), aún después de 1978, Panamá y Nicaragua todavía tenían Paridad de Poder Adquisitivo (PPA) muy parecidos, incluso más parecidos cuando se comparan en relación a EE.UU.(FIGURA 1 y FIGURA 2, se incluye Costa Rica como referencia al ser el país centroamericano con mejor economía). Sobre esto vale la pena mencionar un par de cosas:
 
 ![Curva de GDP](/img/prodcurves/cgdp_curve.png)
 
@@ -23,7 +23,7 @@ Recordando la _hermosa época de ocupación estadounidense_ en Panamá, aún des
 * 65+ años sin impacto en el desarrollo tuvo el canal en la economía panameña
 * Nicaragua vivía en una dictadura Somozista
 * El declive de Nicaragua durante la **guerra civil** no fue tan grande, como el crecimiento panameño
-* La gran caída en las gráficas de GDP en Nicaragua en 1987 se da, no como yo pensaba por grande influjos de inversión soviético o comunista, sino por un efecto capitalista que fue la 	[devaluación](http://www.puntocerodigital.com/?p=189) del Córdoba, la moneda nacional.
+* La gran caída en las gráficas de GDP en Nicaragua en 1987 se da, no como yo pensaba por grande influjos de inversión soviético o comunista, sino por un efecto capitalista que fue la [devaluación](http://www.puntocerodigital.com/?p=189) del Córdoba, la moneda nacional.
 
 ![Curva de GDP Relativa](/img/prodcurves/relative.png)
 
@@ -49,7 +49,7 @@ Es tan poca alentadora la situación de construcción de un canal en CA, que CEP
 
 Todo esto habla el Doctor y más, en Nicaragua todavía tenemos un bono demográfico que se desperdiciría por actividades de baja productividad, además de la falta de creación de empleos reales y empleos para nuestros hijos.
 
-Algo que hay que mencionar es la falta de capacidad de presentación del Dr. Acevedo, sus gráficas requieren un poco más de información y de fuentes, entiendo el caso de los empleos en el cual es difícil obtener la información, pero también es necesario que tenga más información sobre las [Penn-World-Tables 7.1](http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1), fuente necesaria para comparar el bienestar económico de países a través del tiempo y diversas medidas.
+Algo que hay que mencionar es la falta de capacidad de presentación del Dr. Acevedo, sus gráficas requieren un poco más de información y de fuentes, entiendo el caso de los empleos en el cual es difícil obtener la información, pero también es necesario que tenga más información sobre las [Penn-World-Tables 7.1](http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1), fuente necesaria para comparar el bienestar económico de países a través del tiempo y diversos indicadores.
 
 Durante la investigación que hice para este post aprendí bastante sobre indicadores necesarios para la comparación económica de países, si cualquier persona interesada en el tema puede seguir el link anterior y escribir sus propias observaciones.
 
