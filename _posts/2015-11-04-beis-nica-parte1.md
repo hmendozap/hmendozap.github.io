@@ -22,7 +22,7 @@ Empezamos visualizando la distribución del promedio para bateadores que no son 
 
 En la gráfica se puede apreciar que hemos _"ajustado"_ una distribución a nuestros promedios. La media de todos los bateadores es cerca de $$0.253$$, un poco más bajo que las grandes ligas, pero en general bien. La distribución que se usó se llama [distribución](http://en.wikipedia.org/wiki/beta_distribution) distribución $$\beta$$ que intituivamente se puede pensar como una posible distribución de probabilidades (El promedio de bateo por definición es una probabilidad) tiene dos parámetros con valores $$\alpha_0 = 8.506 $$ y $$\beta_0 = 27.650$$ para el ajuste.
 
-Luego se recalcula la estimación de los nuevos promedios (**"AVE_E"** en la tabla) y se ordenan y obtenemos lo siguiente: 
+Luego se recalcula la estimación de los nuevos promedios (**"AVE_E"** en la tabla), se ordenan y obtenemos lo siguiente: 
 
 |-----------------|-----|---|---------|---------|
 | PLAYER          | H   | AB|    AVE  |   AVE_E |
@@ -41,7 +41,7 @@ Luego se recalcula la estimación de los nuevos promedios (**"AVE_E"** en la tab
 
 _Tabla de los bateadores más consistentes_
 
-¿Qué tal? Jimmy González es el bateador que mejor promedio tuvo en esos cuatro años. Ja! Todavía recuerdo que jugaba cuando terminé secundaria y aparentemente ha seguido con buen paso a nivel nacional. En al siguiente gráfica se puede ver lo "anómalo" o por decirlo de una manera más a tono con el deporte, lo "dominante" que es su promedio en comparación a los otros _Top-9_:
+¿Qué tal? Jimmy González es el bateador que mejor promedio tuvo en esos cuatro años. Ja! Todavía recuerdo que jugaba cuando terminé secundaria y aparentemente ha seguido con buen paso a nivel nacional. En la siguiente gráfica se puede ver lo "anómalo" o por decirlo de una manera más a tono con el deporte, lo "dominante" que es su promedio en comparación a los otros _Top-9_:
 
 ![Top 10 promedios de bateo](/img/beis/top_10_batters.png )
 
@@ -49,9 +49,9 @@ Como podemos apreciar existen dos grupos de buenos bateadores del 10 al 6, del 5
 
 ### Equipos malos, equipos buenos
 
-Lo que nos lleva a la siguiente visualización, las diferencias de nivel que existen entre los mejores bateadores de un mismo equipo y la diferencia que existen en relación a todos los otros equipos de temporada regular 2012. Esta idea surgió de un [post de basketball](http://www.http://hinnefe2.github.io/python/hoops/2015/08/12/ivy-heatmaps.html) (Todos estos _"bols"_ me recuerdan a [Stallone](https://www.youtube.com/watch?v=NjLZRIJse_c&list=PLl9Gh-swYCxv9rT1rylsQ_27jDL3zYGoa&index=1)
+Lo que nos lleva a la siguiente visualización, las diferencias de nivel que existen entre los mejores bateadores de un mismo equipo y la diferencia que existen en relación a todos los otros equipos de temporada regular 2012. Esta idea surgió de un [post de basketball](http://www.http://hinnefe2.github.io/python/hoops/2015/08/12/ivy-heatmaps.html) (Todos estos _"bols"_ me recuerdan a [Stallone](https://www.youtube.com/watch?v=NjLZRIJse_c&list=PLl9Gh-swYCxv9rT1rylsQ_27jDL3zYGoa&index=1))
 
-Paréntesis aparte, la idea es normalizar las estadísticas de cada bateador primero por equipo y luego para toda la temporada 2012. En las siguientes gráficas se puede apreciar claramente como ciertos jugadores _"producen"_ dentro del propio equipo pero que en relación a la liga misma son mediocres. Los datos están normalizados usando _"Z_Score"_ esto quiere decir que el número que aparece dentro del recuadro son las desviaciones estándar ($$\sigma$$) sobre/bajo la media.
+Paréntesis aparte, la idea es normalizar las estadísticas de cada bateador primero por equipo y luego para toda la temporada 2012. En las siguientes gráficas se puede apreciar claramente como ciertos jugadores _"producen"_ dentro del propio equipo pero que en relación a la liga misma son mediocres. Los datos están normalizados usando [_"Z-Score"_](https://en.wikipedia.org/wiki/Standard_score) esto quiere decir que el número que aparece dentro del recuadro son las desviaciones estándar ($$\sigma$$) sobre/bajo la media.
 
 Dicho de manera sencilla **rojo** = mejor que la media, **azul** = peor que la media, **blanco (amarillo)** = media.
 
