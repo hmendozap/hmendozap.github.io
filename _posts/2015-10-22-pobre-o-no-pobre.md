@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pobre o no pobre<br \>Esa es la cuestión (de cantidad)
+hide: false
 ---
 Hace algunas semanas se dieron a conocer los resultados de la encuesta 2014 del [Instituto Nacional de Instituto de Desarrollo](http://www.inide.gob.ni/) (INIDE) y uno de las observaciones que más llamaron la atención fue la reducción _drástica_ de la pobreza a nivel nacional. Ver [artículo](http://confidencial.com.ni/pobreza-bajo-de-42-5-a-29-6/).
 

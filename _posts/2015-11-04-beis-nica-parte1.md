@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Baseball Nica <br /> Visualización (Parte I)
-hide: true
+tags: deportes, baseball, Boer, viz
 ---
 
 Después del [desahogo]({% post_url 2015-11-03-pepenando-datos %}) ahora sí, a conocer un poco más del beisbol amateur de Nicaragua alias _"Pomares"_.
 
-Se recopilaron datos de la Pomares en vez de la liga profesional, porque pues en la Pomares hay más datos. La mayoría de los datos entre 2009-2012 son de toda la temporada, incluyendo playoffs aparenteme, y son datos bastantes básicos. No son los datos de la base Lahman, Sabermetrics o Pitchf/x que registran incluso el tipo de lanzamiento y la zona que llegó al home, pero creo que se puede generar algo con esto.
+Se recopilaron datos de la Pomares en vez de la liga profesional, porque pues en la Pomares hay más datos. La mayoría de los datos entre 2009-2012 son de toda la temporada, incluyendo playoffs aparenteme, y son datos bastantes básicos. No son los datos de la base Lahman, Sabermetrics o Pitchf/x que registran incluso el tipo de lanzamiento y la zona que llegó al _home_, pero creo que se puede generar algo con esto.
 
 Como sudé para la limpieza de datos (Data Munging) usaré este dataset para al menos otros dos posts: **visualización y estimación**, **cambios históricos y tendencias** y **predicciones**.
 
@@ -58,7 +58,7 @@ Dicho de manera sencilla **rojo** = mejor que la media, **azul** = peor que la m
 ![Bateadores de Carazo normalizado](/img/beis/CARAZO_batters_2012_perTeam.png)
 ![Equipo Carazo con respecto a la liga](/img/beis/CARAZO_batters_2012_overall.png)
 
-Aquí se puede ver que los mejores tres bateadores de [Carazo](https://es.wikipedia.org/wiki/Departamento_de_Carazo) generan carreras y hits para el equipo, pero si los comparamos con el promedio de la temporada vemos que la producción es normal para el equipo con la excepción del mejor bateador, Jilton Calderón, que produce _"dobletes"_ y _"base por bolas"_ encima del promedio y aún el está por debajo del promedio en jonrones.
+Aquí se puede ver que los mejores tres bateadores de [Carazo](https://es.wikipedia.org/wiki/Departamento_de_Carazo) generan carreras y hits para el equipo, pero si los comparamos con el promedio de la temporada vemos que la producción es normal para el equipo con la excepción del mejor bateador, Jilton Calderón, que produce _"dobletes"_ y _"base por bolas"_ encima del promedio y aún el está por debajo del promedio en <del>jonrones</del> _"triples"_.
 
 Ahora veamos el otro caso, jugadores dentro del equipo tienen producción promedio pero que nivel de temporada están arriba del promedio, esto es signo de un buen equipo, de un equipo ganador. Para que no me acusen de hacer favoritos a los de la casa (Viva el bóer, jodido!) usé los datos de otro buen equipo en el 2012: **Costa Caribe**
 
@@ -68,4 +68,4 @@ Ahora veamos el otro caso, jugadores dentro del equipo tienen producción promed
 
 Como ejemplo tomaremos a Dwight Britton (el 2do mejor en promedio) y vemos que sus números son relativamente normales dentro de su equipo a excepción de los _HRs_ y _BBs_. Pero comparamos sus números con el resto de los equipos y pam! Está por encima del promedio en carreras, _hits_, dobles y carreras impulsadas también!
 
-Esto fue el primer post acerca de visualización usando datos de beisbol en Nicaragua, si gustan y quieren hacer sus propios análisis estadísticos, pueden enviarme un mensaje en twitter o dejar un comentario y puedo compartir los datos ya limpios. Esto también sirve para las nuevas generaciones en cuanto a saber sus tendencias y mejorar fallas técnicas en el deporte, habiendo dicho eso: **Felicitaciones a la sub-12 campeón panamericano de beisbol!** 
+Esto fue el primer post acerca de visualización usando datos de beisbol en Nicaragua, si gustan y quieren hacer sus propios análisis estadísticos, pueden enviarme un mensaje en twitter o dejar un comentario y puedo compartir los datos ya limpios. Esto también sirve para las nuevas generaciones en cuanto a saber sus tendencias y mejorar fallas técnicas en el deporte, habiendo dicho eso: **Felicitaciones a la sub-12 campeón panamericano de beisbol!**

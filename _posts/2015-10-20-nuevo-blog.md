@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Estamos en línea
+hide: false
 ---
 
 Después de mucha consideración, decidí empezar un nuevo blog, más que todo para poder practicar lo que he aprendido y recopilado durante la maestría y mi mini-carrera laboral.
