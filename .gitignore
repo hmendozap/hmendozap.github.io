@@ -5,3 +5,5 @@ code_snippets.txt
 *.swp
 *.lock
 Thumbs.db
+img/Thumbs.db
+img/*/Thumbs.db
