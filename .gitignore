@@ -1,8 +1,12 @@
 _site/
 .sass-cache/
 code_snippets.txt
+*.DS_Store
+*.gem
+.bundle
 *.*~
 *.swp
+Gemfile.lock
 *.lock
 Thumbs.db
 img/Thumbs.db

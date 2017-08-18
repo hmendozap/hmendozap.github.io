@@ -1,7 +1,8 @@
 # Site Configuration
 baseurl: "" # Subpath to website
 url: "https://hmendozap.github.io"
-theme:
+# THEME-SPECIFIC CONFIGURATION
+theme_settings:
     title: GP Sample Extraordinare
     avatar: pp.jpg
     gravatar: # Email MD5 hash
@@ -39,10 +40,9 @@ theme:
     # Scripts
     google_analytics: # Tracking ID, e.g. "UA-000000-01"
     disqus_shortname: "GP-Sample"
-    katex: true # Enable if using math markup
-
+    muut_community_name: # From muut.com settings, e.g. "muttcommunityname"    katex: true # Enable if using math markup
     # Localization strings
-    str_follow_on: "AquÃ­ estoy en"
+    str_follow_on: "Aquí estoy en"
     str_rss_follow: "Follow RSS feed"
     str_email: "Deja un mensaje"
     str_next: "Siguiente"
@@ -60,9 +60,12 @@ theme:
 paginate: 5
 paginate_path: "blog/page:num"
 
+
+
 # BUILD SETTINGS
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
+gems: [jekyll-paginate]
