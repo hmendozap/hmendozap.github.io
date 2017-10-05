@@ -32,7 +32,7 @@ Y vaya que el campo ha explotado, ahora existen Fast-CNN, R-CNN, HyperNetworks y
 
 El modelo inicial, en el paquete de principiante, es una [ResNet (Residual Networks)](https://arxiv.org/pdf/1512.03385v1.pdf) de 18 capas; la ventaja principal de las _ResNets_ es que reciben entradas de la imagen original o de capas anteriores en las capas más profundas, uno se salta capas básicamente. Si les interesa más les recomiendo ampliamente leer el artículo, la intuición detrás es sencilla.
 
-Además de utilizar en un modelo ya existente, decidí por utilizar _transfer learning_, es decir, los parámetros ya calculados y sobre esos _"aprender"_ la última capa, la que hace la asignación del _label_ a la imagen. La decisión la tomé después de comparar el entrenamiento de todo el modelo, es decir _"aprendiendo"_ todos los parámetros y entrenar solamente la última capa (_transfer learning). Al final el _accuracy_ de _full training_ era ~2% mejor que _transfer learning_ pero el tiempo de entrenamiento era 4x veces mayor. 
+Además de utilizar en un modelo ya existente, decidí por utilizar _transfer learning_, es decir, los parámetros ya calculados y sobre esos _"aprender"_ la última capa, la que hace la asignación del _label_ a la imagen. La decisión la tomé después de comparar el entrenamiento de todo el modelo, es decir _"aprendiendo"_ todos los parámetros y entrenar solamente la última capa (_transfer learning_). Al final el _accuracy_ de _full training_ era ~2% mejor que _transfer learning_ pero el tiempo de entrenamiento era 4x veces mayor. 
 
 ### Lo Experimento
 
