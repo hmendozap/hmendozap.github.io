@@ -47,7 +47,7 @@ theme_settings:
   str_rss_follow: "Follow RSS feed"
   str_email: "Deja un mensaje"
   str_next_post: "Siguiente Post"
-  str_previous_post: "Post Anterior""
+  str_previous_post: "Post Anterior"
   str_next_page: "Siguiente"
   str_previous_page: "Previa"
   str_continue_reading: "Enterate..."
