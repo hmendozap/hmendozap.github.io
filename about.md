@@ -2,7 +2,7 @@
 layout: page
 title: Acerca de HMP
 permalink: /about/
-feature-img: "img/sample_feature_img_2.png"
+feature-img: "assets/img/sample_feature_img_2.png"
 ---
 
 GP Sample Extraordinare (de Gaussian Processes, procesos gaussianos en español) es el blog personal de Hector Mendoza, originario de Managua, Nicaragua (puej!) , consultor, desarrollador, ex-colaborador en un lab. de algoritmos, ~~estudiante~~ ex-estudiante de la [Universidad de Freiburg](http://www.tf.uni-freiburg.de/faculty) y ex-alumno del [ITESM](http://mty.itesm.edu.mx).

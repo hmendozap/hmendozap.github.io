@@ -24,6 +24,7 @@ theme_settings:
   facebook:
   flickr:
   github: "hmendozap/"
+  gitlab:
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -40,14 +41,17 @@ theme_settings:
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname: "GP-Sample"
-  muut_community_name: # From muut.com settings, e.g. "muttcommunityname"    katex: true # Enable if using math markup
+  katex: true # Enable if using math markup
   # Localization strings
   str_follow_on: "Aqui estoy en"
   str_rss_follow: "Follow RSS feed"
   str_email: "Deja un mensaje"
-  str_next: "Siguiente"
-  str_prev: "Anterior"
+  str_next_post: "Siguiente Post"
+  str_previous_post: "Post Anterior""
+  str_next_page: "Siguiente"
+  str_previous_page: "Previa"
   str_continue_reading: "Enterate..."
+  str_javascript_required_disqus: "Please enable JavaScript to view comments."
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
@@ -68,4 +72,8 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
+theme: jekyll-theme-type
+exclude:
+  - Gemfile
+  - Gemfile.lock
