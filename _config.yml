@@ -4,16 +4,16 @@ url: "https://hmendozap.github.io"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   title: GP Sample Extraordinare
-  avatar: pp.jpg
+  avatar: /img/pp.jpg
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages about a nicaraguan in search for a Master's" # used by search engines
+  description: "A website with blog posts and pages about a nicaraguan in search for efficiency in development in Nicaragua" # used by search engines
 
   # Header and footer text
   header_text: >
-      <p> Coffee, beer, bacon, sports and Gaussian Processes... </p>
+      <p> Coffee, beer, sports and Machine Learning... </p>
   header_text_feature_image:
   footer_text: >
-      Copyright 2015. Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+      Copyright 2017. Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
   rss: false
@@ -63,8 +63,6 @@ theme_settings:
 # PAGINATION
 paginate: 5
 paginate_path: "blog/page:num"
-
-
 
 # BUILD SETTINGS
 markdown: kramdown
