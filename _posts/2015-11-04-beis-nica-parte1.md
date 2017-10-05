@@ -18,7 +18,7 @@ Para responder la pregunta nos basaremos en un método bastante sencillo: Estima
 
 Empezamos visualizando la distribución del promedio para bateadores que no son lanzadores (_pitchers_) y que tienen más de  20 intentos en el plato. Obviamente es mejor tomar bateadores que tengan más intentos, ya que los que tienen muy pocos introducen error y sesgo a la hora de _"ajustar"_ distribución. Pero, pues, a falta de datos nos quedamos con más de 20 que para nuestro caso es suficiente.
 
-![Distrubicion bateo Pomares](/img/beis/ave_distro.png )
+![Distribucion bateo Pomares](/img/beis/ave_distro.png )
 
 En la gráfica se puede apreciar que hemos _"ajustado"_ una distribución a nuestros promedios. La media de todos los bateadores es cerca de $$0.253$$, un poco más bajo que las grandes ligas, pero en general bien. La distribución que se usó se llama [distribución](http://en.wikipedia.org/wiki/beta_distribution) distribución $$\beta$$ que intituivamente se puede pensar como una posible distribución de probabilidades (El promedio de bateo por definición es una probabilidad) tiene dos parámetros con valores $$\alpha_0 = 8.506 $$ y $$\beta_0 = 27.650$$ para el ajuste.
 
