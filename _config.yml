@@ -4,7 +4,7 @@ url: "https://hmendozap.github.io"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   title: GP Sample Extraordinare
-  avatar: /img/pp.jpg
+  avatar: img/pp.jpg
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages about a nicaraguan in search for efficiency in development in Nicaragua" # used by search engines
 
